@@ -15,4 +15,3 @@
 	git remote add origin https://github.com/[repo][project.git]
 	git branch -M main
 	git push -u origin main
-
